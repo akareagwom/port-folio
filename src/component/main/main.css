@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.main-container{
+    padding-top: 40px;
+}
+.main{
+    /* background:linear-gradient( 00,rgb(221, 111, 8)  0%, rgb(2, 2, 2) 100% ); */
+    background-color: rgb(13, 14, 17);
+    color: white;
+    width: 700px;
+    margin-left: 817.2px;
+    height: 94vh;
+/* font-family: Trebuchet MS (sans-serif); */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;    
+}
+.main img{
+    /* margin-right: 200px; */
+    margin-top: 30px;
+}

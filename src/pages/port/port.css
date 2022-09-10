@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.port-container{
+background:linear-gradient( 0000000, rgb(2, 2, 2) 0%, rgb(221, 111, 8) 100% );
+height: 100vh;
+}
+.folio{
+    margin-top: -370px;
+    margin-left: 600px;
+}
