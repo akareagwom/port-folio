@@ -12,7 +12,7 @@ const Port = () => {
                     <Main/>
                 </div>
                 <div className='folio'>
-                    <img src={folio} style={{height:'690px',width:'820px'}}/>
+                    <img src={folio} style={{height:'300px',width:'300px'}}/>
                 </div>
             </div>
             <div>
